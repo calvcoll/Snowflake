@@ -361,4 +361,6 @@
     #actions-modal .item-box .tweet-text {color:grey}
     .column-options form {background-color:#404040}
     .compose-content .pull-right .btn.is-disabled {display:none}
+    /* Fixes the white line at the top of the column, when searching users. */
+    #open-modal .mdl-inner .column-content .column-options {display:none}
 }
