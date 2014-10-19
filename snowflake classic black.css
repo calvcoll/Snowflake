@@ -368,4 +368,6 @@
     #open-modal li:hover .list-account {background:#3b94d9}
     #open-modal li:hover.selected .list-account {background:grey}
     #open-modal li:hover.selected .fullname {color:#55acee}
+    
+    #open-modal .mdl-inner .column-options {display:none}
 }
