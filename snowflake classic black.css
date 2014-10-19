@@ -361,4 +361,7 @@
     #actions-modal .item-box .tweet-text {color:grey}
     .column-options form {background-color:#404040}
     .compose-content .pull-right .btn.is-disabled {display:none}
+    
+    /* Gets rid of text-shadow when on add users column. */
+    .list-account {text-shadow: none}
 }
